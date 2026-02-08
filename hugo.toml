@@ -1,6 +1,6 @@
 baseURL = 'https://russellgallinera.com'
 languageCode = 'en-us'
-title = 'Personal site'
+title = "hi, i'm russell."
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
@@ -15,7 +15,7 @@ theme = "minimal-black"
   notAlternative = true
 
 [params]
-  brand = "Russell Gallinera"
+  brand = "Russell's site"
   description = "Personal Site"
 
   # Favicon - Place your favicon files in /static/ directory
@@ -56,11 +56,11 @@ theme = "minimal-black"
     showLatestPosts = true
     featuredProjectsLimit = 3
     latestPostsLimit = 3
-    projectsTitle = "Selected Work"
+    projectsTitle = "Projects"
     projectsSubtitle = ""
-    blogTitle = "Latest Writing"
+    blogTitle = "Posts"
     blogSubtitle = ""
-    skillsLabel = "Experienced In"
+    skillsLabel = "Skills"
 
     # Skills Display
 
@@ -191,7 +191,7 @@ theme = "minimal-black"
     nowLabel = "Quick Facts"
     nowIntro = "Right now I'm mainly:"
     now = [
-      "Playing with my homelab",
+      "Tinkering with my homelab",
       "Configuring my Arch Linux setup",
       "Studying for the AZ-104",
       "Building this website"
