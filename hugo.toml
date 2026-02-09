@@ -178,23 +178,23 @@ theme = "minimal-black"
 
   # Hero Section Configuration
   [params.hero]
-    badge = "Systems Administrator"
-    title = "hi, i'm russell."
-    role = "having fun"
-    summary = "hello, enjoy my website - it's a work in progress right now :3"
+    badge = "WIP"
+    title = "WIP"
+    role = "WIP"
+    summary = "WIP"
     # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
-    location = "Winnipeg, Canada"
-    focus = "having fun"
-    available = false 
-    availableLabel = "happy worker"
+    location = "WIP, Canada"
+    focus = "WIP"
+    available = true 
+    availableLabel = "WIP"
 
-    nowLabel = "Quick Facts"
-    nowIntro = "Right now I'm mainly:"
+    nowLabel = "WIP"
+    nowIntro = "WIP"
     now = [
-      "Tinkering with my homelab",
-      "Configuring my Arch Linux setup",
-      "Studying for the AZ-104",
-      "Building this website"
+      "WIP",
+      "WIP",
+      "WIP",
+      "WIP"
     ]
 
     [params.hero.primary]
