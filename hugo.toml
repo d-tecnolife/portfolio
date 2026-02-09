@@ -1,6 +1,6 @@
 baseURL = 'https://russellgallinera.com'
 languageCode = 'en-us'
-title = "hi, i'm russell."
+title = "WIP"
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
@@ -15,7 +15,7 @@ theme = "minimal-black"
   notAlternative = true
 
 [params]
-  brand = "Russell's site"
+  brand = "WIP"
   description = "Personal Site"
 
   # Favicon - Place your favicon files in /static/ directory
