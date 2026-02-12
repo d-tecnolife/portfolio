@@ -18,7 +18,7 @@ pagerSize = 3
     url = "resume"
   [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 0
     url = "about"
 
 [params]
@@ -32,16 +32,19 @@ displayDateFormat = "2006-01-02"
 
 # Global metadata display settings
 # Each can be overridden in individual post frontmatter
-showMetadata = true       # Master switch for all metadata display
+showMetadata = false # Master switch for all metadata display
 showPublishedDate = false  # Show published date on post page
 showReadingTime = false    # Show reading time on post page
-showTags = true           # Show tags on post page
-showAuthors = true        # Show authors on post page
-showCategories = true     # Show categories on post page
+showTags = false # Show tags on post page
+showAuthors = false # Show authors on post page
+showCategories = false # Show categories on post page
 
   [params.author]
     name = "RUSSELL GALLINERA"  # Website and RSS feed author
     email = "russellgallinera@gmail.com"  # RSS feed email address
+#    avatar = "/images/avatar.jpg"  # Path to your avatar image
+#    avatarSize = "size-m"  # Options: size-s, size-m, size-l
+#    avatarFirst = true
 
 [[params.social]]
 key = 0
@@ -60,4 +63,4 @@ aria = "LinkedIn Profile"
 key = 3
 name = "[ email ]"
 url = "mailto:russellgallinera@gmail.com"
-aria = "My e-Mail Address"
+aria = "My Email Address"
