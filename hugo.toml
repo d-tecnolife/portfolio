@@ -1,348 +1,63 @@
 baseURL = 'https://russellgallinera.com'
 languageCode = 'en-us'
 title = "WIP"
-theme = "minimal-black"
+theme = "nightfall"
 
-# Enable search index generation and web app manifest
-[outputs]
-  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
-  baseName = "manifest"
-  isPlainText = true
-  notAlternative = true
+[pagination]
+pagerSize = 3
+
+[menu]
+  [[menu.header]]
+    name = "resume"
+    weight = 0
+    url = "resume"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
 
 [params]
-  brand = "WIP"
-  description = "Personal Site"
+user = "russell"
+hostname = "site"
 
-  # Favicon - Place your favicon files in /static/ directory
-  # Supported formats: .ico, .png, .svg
-  favicon = "icons/favicon.svg"
-  appleTouchIcon = "apple-touch-icon.png"
+# You can configure external links to open in new tabs by adding this parameter
+openLinksInNewTab = true
 
-  # Logo (optional)
-  logo = "images/logo.png"
+displayDateFormat = "2006-01-02"
 
-  # Project and blog intro text
-  projectsIntro = "Selected projects to display list." # Can be empty
-  blogIntro = "" # Can be empty
+# Global metadata display settings
+# Each can be overridden in individual post frontmatter
+showMetadata = true       # Master switch for all metadata display
+showPublishedDate = true  # Show published date on post page
+showReadingTime = true    # Show reading time on post page
+showTags = true           # Show tags on post page
+showAuthors = true        # Show authors on post page
+showCategories = true     # Show categories on post page
 
-  # Web App Manifest Configuration (PWA support)
-  [params.manifest]
-    themeColor = "#35784c"
-    backgroundColor = "#18171d"
-    categories = ["blog", "portfolio", "developer"]
+  [params.author]
+    name = "RUSSELL GALLINERA"  # Website and RSS feed author
+    email = "russellgallinera@gmail.com"  # RSS feed email address
 
-    # Custom icon configuration (optional)
-    # If not specified, defaults to /icons/android-chrome-*.png
-    # [[params.manifest.icons]]
-    #   src = "/icons/android-chrome-192x192.png"
-    #   sizes = "192x192"
-    #   type = "image/png"
-    #   purpose = "any maskable"
+[[params.social]]
+key = 0
+name = "[ github ]"
+url = "https://github.com/d-tecnolife"
+target = "_blank"
+aria = "GitHub Profile"
 
-  # Theme Configuration
-  [params.theme]
-    defaultTheme = "dark"  # Options: "light", "dark", "system"
+[[params.social]]
+key = 2
+name = "[ linkedin ]"
+url = "https://www.linkedin.com/in/russell-gallinera-09a550291/"
+aria = "LinkedIn Profile"
 
-  # Home Page Configuration
-  [params.home]
-    sections = ["hero", "now", "skills", "projects", "posts"]
-    showNowSection = true
-    showFeaturedProjects = true
-    showLatestPosts = true
-    featuredProjectsLimit = 3
-    latestPostsLimit = 3
-    projectsTitle = "Projects"
-    projectsSubtitle = ""
-    blogTitle = "Posts"
-    blogSubtitle = ""
-    skillsLabel = "Skills"
-
-    # Skills Display
-
-    [[params.home.skills]]
-      label = "PowerShell"
-      icon = "devicon-powershell-plain"
-      
-    [[params.home.skills]]
-      label = "Python"
-      icon = "devicon-python-plain"
-
-    [[params.home.skills]]
-      label = "Java"
-      icon = "devicon-java-plain"
-
-    [[params.home.skills]]
-      label = "JavaScript"
-      icon = "devicon-javascript-plain"
-
-    [[params.home.skills]]
-      label = "Bash"
-      icon = "devicon-bash-plain"
-      
-    [[params.home.skills]]
-      label = "Lua"
-      icon = "devicon-lua-plain"
-
-    [[params.home.skills]]
-      label = "PostgreSQL"
-      icon = "devicon-postgresql-plain"
-
-    [[params.home.skills]]
-      label = "C"
-      icon = "devicon-c-plain"
-
-    [[params.home.skills]]
-      label = "Vim"
-      icon = "devicon-vim-plain"
-
-    [[params.home.skills]]
-      label = "Azure"
-      icon = "devicon-azure-plain"
-      
-    [[params.home.skills]]
-      label = "GitHub"
-      icon = "devicon-github-plain"
-
-    [[params.home.skills]]
-      label = "Docker"
-      icon = "devicon-docker-plain"
-
-    [[params.home.skills]]
-      label = "Git"
-      icon = "devicon-git-plain"
-
-    [[params.home.skills]]
-      label = "Hugo"
-      icon = "devicon-hugo-plain"
-
-    [[params.home.skills]]
-      label = "Json"
-      icon = "devicon-json-plain"
-
-    [[params.home.skills]]
-      label = "Linux"
-      icon = "devicon-linux-plain"
-
-    [[params.home.skills]]
-      label = "Markdown"
-      icon = "devicon-markdown-original"
-
-    [[params.home.skills]]
-      label = "YAML"
-      icon = "devicon-yaml-plain"  
-
-  # About Page Alternative Layout Configuration - Optional
-  [params.about.alt]
-    # Stats displayed in the profile card sidebar
-    [[params.about.alt.stats]]
-      value = "5+"
-      label = "Years Coding"
-
-    [[params.about.alt.stats]]
-      value = "20+"
-      label = "Projects"
-
-    [[params.about.alt.stats]]
-      value = "∞"
-      label = "Hours Spent"
-
-    # Skills/Tech Stack badges with icons
-    [[params.about.alt.skills]]
-      label = "JavaScript"
-      icon = "devicon-javascript-plain"
-
-    [[params.about.alt.skills]]
-      label = "Python"
-      icon = "devicon-python-plain"
-
-    [[params.about.alt.skills]]
-      label = "React"
-      icon = "devicon-react-original"
-
-    [[params.about.alt.skills]]
-      label = "Docker"
-      icon = "devicon-docker-plain"
-
-    [[params.about.alt.skills]]
-      label = "PostgreSQL"
-      icon = "devicon-postgresql-plain"
-
-    [[params.about.alt.skills]]
-      label = "AWS"
-      icon = "devicon-amazonwebservices-plain"
-
-  # Hero Section Configuration
-  [params.hero]
-    badge = "WIP"
-    title = "WIP"
-    role = "WIP"
-    summary = "WIP"
-    # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
-    location = "WIP, Canada"
-    focus = "WIP"
-    available = true 
-    availableLabel = "WIP"
-
-    nowLabel = "WIP"
-    nowIntro = "WIP"
-    now = [
-      "WIP",
-      "WIP",
-      "WIP",
-      "WIP"
-    ]
-
-    [params.hero.primary]
-      label = "View Projects"
-      href = "/projects/"
-
-    [params.hero.secondary]
-      label = "Read the Blog"
-      href = "/blog/"
-
-  # Icon Libraries
-  [params.icons]
-    useFontAwesome = true
-    useDevicon = true
-
-  # Social Links
-  [[params.social]]
-    label = "GitHub"
-    url = "https://github.com/d-tecnolife"
-    icon = "fa-brands fa-github"
-
-  [[params.social]]
-    label = "LinkedIn"
-    url = "https://www.linkedin.com/in/russell-gallinera-09a550291/"
-    icon = "fa-brands fa-linkedin-in"
-
-  [[params.social]]
-    label = "Email"
-    url = "mailto:russellgallinera@gmail.com"
-    icon = "fa-regular fa-envelope"
-
-  # Analytics Configuration
-  [params.analytics]
-    # Google Analytics (GA4)
-    # googleAnalytics = "G-XXXXXXXXXX"
-
-    # Plausible Analytics (privacy-friendly)
-    # [params.analytics.plausible]
-    #   enabled = true
-    #   domain = "yourdomain.com"
-    #   scriptUrl = "https://plausible.io/js/script.js"
-
-    # Umami Analytics (self-hosted option)
-    # [params.analytics.umami]
-    #   enabled = true
-    #   scriptUrl = "https://analytics.yourdomain.com/script.js"
-    #   websiteId = "your-website-id"
-
-    # Fathom Analytics
-    # [params.analytics.fathom]
-    #   enabled = true
-    #   scriptUrl = "https://cdn.usefathom.com/script.js"
-    #   siteId = "YOUR-SITE-ID"
-
-# Navigation Menu
-[menu]
-  [[menu.main]]
-    name = "Home"
-    pageRef = "/"
-    url = "/"
-    weight = 1
-    identifier = "home"
-    [menu.main.params]
-      icon = "fa-solid fa-house"
-
-  [[menu.main]]
-    name = "About"
-    pageRef = "about"
-    url = "/about/"
-    weight = 2
-    identifier = "about"
-    [menu.main.params]
-      icon = "fa-regular fa-user"
-
-  #[[menu.main]]
-  #  name = "About Alt"
-  #  pageRef = "about-alternative"
-  #  url = "/about-alternative/"
-  #  weight = 2
-  #  identifier = "about-alternative"
-  #  [menu.main.params]
-  #    icon = "fa-solid fa-user"
-
-  [[menu.main]]
-    name = "Projects"
-    pageRef = "projects"
-    url = "/projects/"
-    weight = 3
-    identifier = "projects"
-    [menu.main.params]
-      icon = "fa-regular fa-folder-open"
-
-  [[menu.main]]
-    name = "Blog"
-    pageRef = "blog"
-    url = "/blog/"
-    weight = 4
-    identifier = "blog"
-    [menu.main.params]
-      icon = "fa-regular fa-note-sticky"
-
-# Markup Configuration
-[markup]
-  # Table of Contents
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 4
-
-  # Goldmark Renderer (Markdown)
-  [markup.goldmark.renderer]
-    unsafe = true
-
-  [markup.goldmark.parser]
-      [markup.goldmark.parser.attribute]
-        block = true
-
-  [markup.goldmark.extensions]
-    typographer = true
-    linkify = true
-    table = true
-    strikethrough = true
-    taskList = true
-    definitionList = true
-    footnote = true
-
-    [markup.goldmark.extensions.extras.delete]
-      enable = true
-    [markup.goldmark.extensions.extras.insert]
-      enable = true
-    [markup.goldmark.extensions.extras.mark]
-      enable = true
-
-  # Syntax Highlighting
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    lineNos = false
-    lineNumbersInTable = false
-    noClasses = false
-    style = "monokai"
-    tabWidth = 2
-
-# Taxonomies
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-# Privacy Configuration
-[privacy]
-  [privacy.youtube]
-    privacyEnhanced = true
+[[params.social]]
+key = 3
+name = "[ email ]"
+url = "mailto:russellgallinera@gmail.com"
+aria = "My e-Mail Address"
