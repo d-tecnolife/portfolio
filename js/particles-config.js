@@ -1,8 +1,5 @@
-// Lightweight particles configuration
-// Scripts with defer execute in order after DOM parsing
 (function initParticles() {
   if (typeof particlesJS === 'undefined') {
-    // Retry briefly if particles.js hasn't loaded yet
     setTimeout(initParticles, 50);
     return;
   }
