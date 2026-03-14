@@ -58,11 +58,11 @@ _IT Support Technician_ <span style="float:right; font-family:monospace;">Mar 20
 
 **University of Winnipeg** — B.Sc. Computer Science <span style="float:right; font-family:monospace;">Sep 2017 – Oct 2021</span>
 
+Microsoft Azure Administrator (AZ-104) <span style="float:right; font-family:monospace;">Expires Mar 2027</span>
+
 Cisco Certified Network Associate (CCNA) <span style="float:right; font-family:monospace;">Expires Sep 2027</span>
 
 CompTIA Security+ <span style="float:right; font-family:monospace;">Expires Aug 2028</span>
-
-Microsoft Azure Administrator (AZ-104) <span style="float:right; font-family:monospace;">In Progress</span>
 
 ---
 
