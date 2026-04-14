@@ -16,40 +16,32 @@ Systems Administrator with a background in computer science and a focus on autom
 
 **Manitoba Metis Federation**
 
-_Systems Administrator_ <span style="float:right; font-family:monospace;">Feb 2023 – Current</span>
+_Systems Administrator_ <span style="float:right; font-family:monospace;">Feb 2024 – Current</span>
 
-- Built and maintained backup infrastructure, virtual machines, and containerized services
-- Managed server patching, firewall policies, and access point deployments
-- Automated provisioning and routine tasks using Ansible and PowerShell
-- Developed integrations using Microsoft Graph API, including automated license syncing from Entra to SnipeIT
-- Managed endpoint deployment and enforced device baselines across AD, Entra, and Intune
-- Implemented Zero Trust policies using Entra PIM, Conditional Access, and least privilege principles across AD and Entra
-- Supported Active Directory migration, Entra Hybrid Join, and multi-tenant configuration
-- Administered Microsoft 365 services including SharePoint, Exchange, and Teams
-- Monitored and investigated security alerts from DarkTrace
-- Created and maintained documentation covering infrastructure, processes, and operational guidelines
+- Administer hybrid infrastructure supporting 1,100+ users and devices across 30+ servers, 100+ virtual machines, backup platforms, and containerized services to maintain reliable day-to-day operations.
+- Automate provisioning, patching, and recurring administrative workflows with PowerShell and Ansible, reducing manual effort by an estimated 30% and improving consistency across server and endpoint management.
+- Manage identity and endpoint administration for approximately 1,100 users and devices across Active Directory, Entra ID, and Intune, enforcing device baselines and supporting Hybrid Join and multi-tenant administration.
+- Implement Zero Trust controls with Entra PIM, Conditional Access, and least-privilege principles, strengthening privileged access governance and reducing standing administrative access across AD and Entra environments.
+- Build Microsoft Graph API integrations to automate license synchronization between Entra ID and Snipe-IT, while administering Microsoft 365 services and investigating Darktrace alerts to support secure, stable operations.
+- Maintain Veeam backup infrastructure for 30+ servers, 100+ virtual machines, and Microsoft 365 workloads, supporting system recoverability and the reliable protection of business-critical data.
 
 _IT Support Technician_ <span style="float:right; font-family:monospace;">Mar 2022 – Feb 2023</span>
 
-- Resolved hardware and software issues across Windows, macOS, and iOS via ticket system and remote support (Splashtop)
-- Onboarded new users including account creation, hardware, and software provisioning
-- Investigated and remediated security threats (BitDefender)
-- Provided AV support for meetings and events
+- Provided technical support for a 1,100+ user environment across Windows, macOS, and iOS platforms, resolving hardware and software issues through a ticketing system and Splashtop remote access.
+- Resolved 30+ support tickets per week, maintaining timely response and consistent communication across a broad range of end-user issues.
+- Configured 10+ new-user environments per month by creating accounts, provisioning hardware, and installing required software using Active Directory and standard deployment tools.
+- Configured audio and visual equipment for 5+ onsite and virtual meetings, presentations, and live-streamed events per quarter, ensuring reliable delivery and minimal disruption.
 
 ---
 
 ### Skills
 
-**Operating Systems:** Windows, Windows Server, Linux, macOS, iOS
-
-**Networking & Security:** Fortinet (FortiGate, FortiClient), DarkTrace, BitDefender
-
-**Virtualization & Monitoring:** Proxmox, Hyper-V, vCenter, Auvik
-
 **Cloud & Identity:** Microsoft Entra, Active Directory, Office 365, Intune
-
-**Automation & Development:** PowerShell, Ansible, Microsoft Graph API, Docker
-
+**Automation & Development:** Ansible, Microsoft Graph API, Docker
+**Networking & Security:** Fortinet (FortiGate, FortiClient), DarkTrace, BitDefender
+**Languages:** Powershell, Python, Go, Bash
+**Virtualization & Monitoring:** Proxmox, Hyper-V, vCenter, Auvik
+**Operating Systems:** Windows, Windows Server, Linux, macOS, iOS
 **Tools:** MiCollab, Hudu, PaperCut, SnipeIT, Splashtop, Zoom, Adobe
 
 ---

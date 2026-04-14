@@ -1,0 +1,127 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-bottom: 5.5rem !important;
+}
+
+.reader-menu {
+  position: fixed;
+  top: 1rem;
+  left: 1.75rem;
+  z-index: 9999;
+  margin: 0;
+  overflow: visible;
+}
+
+.reader-menu summary {
+  appearance: none;
+  -webkit-appearance: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.26rem;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  list-style: none;
+  cursor: pointer;
+  background: #171d23;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.24);
+}
+
+.reader-menu summary::-webkit-details-marker {
+  display: none;
+}
+
+.reader-menu summary::marker {
+  content: "";
+}
+
+.reader-menu summary span {
+  display: block;
+  width: 1.15rem;
+  height: 2px;
+  background: #f4f5f6;
+}
+
+.reader-menu-panel {
+  display: grid;
+  min-width: 10rem;
+  margin-top: 0.4rem;
+  background: #171d23;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.26);
+}
+
+.reader-menu-panel a {
+  display: block;
+  padding: 0.9rem 1rem;
+  background: #2a3138;
+  color: #f4f5f6 !important;
+  text-decoration: none !important;
+  font: 600 0.94rem/1 system-ui, sans-serif;
+  transition: background-color 120ms ease;
+}
+
+.reader-menu-panel a:hover,
+.reader-menu[open] summary,
+.reader-menu summary:hover {
+  background: #424b54;
+}
+
+.reader-bottom-nav {
+  position: fixed;
+  left: 50%;
+  bottom: 1.2rem;
+  transform: translateX(-50%);
+  z-index: 9998;
+  display: flex;
+  gap: 0;
+}
+
+.reader-bottom-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3rem;
+  min-height: 2.5rem;
+  padding: 0.55rem 0.7rem;
+  background: rgba(23, 29, 35, 0.88);
+  color: #f4f5f6 !important;
+  text-decoration: none !important;
+  font: 900 1.3rem/1 "Arial Black", "Segoe UI Symbol", system-ui, sans-serif;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
+  transition: background-color 120ms ease;
+}
+
+.reader-bottom-nav a,
+.reader-bottom-nav a:link,
+.reader-bottom-nav a:visited,
+.reader-bottom-nav a:hover,
+.reader-bottom-nav a:active {
+  text-decoration: none !important;
+}
+
+.reader-bottom-nav a:hover {
+  background: #424b54;
+}
+
+@media (max-width: 700px) {
+  .reader-menu {
+    top: 0.8rem;
+    left: 1.25rem;
+  }
+
+  .reader-bottom-nav {
+    bottom: 1rem;
+    width: calc(100vw - 2rem);
+    justify-content: center;
+  }
+
+  .reader-bottom-nav a {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+}

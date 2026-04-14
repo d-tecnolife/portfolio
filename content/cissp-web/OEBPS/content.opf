@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opf:package unique-identifier="bookid" version="2.0" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:metadata>
+<dc:title>Destination CISSP</dc:title>
+<dc:publisher>Destination CISSP</dc:publisher>
+<dc:creator opf:role="aut">Rob Witcher | John Berti | Lou Hablas | Nick Mitropoulos</dc:creator>
+<dc:language>en</dc:language>
+<opf:meta content="cover" name="cover"/>
+<dc:identifier id="bookid" xmlns:dc="http://purl.org/dc/elements/1.1/">9798987407738</dc:identifier></opf:metadata>
+<opf:manifest>
+<opf:item href="cover.html" id="cover1" media-type="application/xhtml+xml"/>
+<opf:item href="title.html" id="title.html" media-type="application/xhtml+xml"/>
+<opf:item href="copy.html" id="copy.html" media-type="application/xhtml+xml"/>
+<opf:item href="ack.html" id="ack.html" media-type="application/xhtml+xml"/>
+<opf:item href="over_toc.html" id="over_toc.html" media-type="application/xhtml+xml"/>
+<opf:item href="toc.html" id="toc.html" media-type="application/xhtml+xml"/>
+<opf:item href="why_book.html" id="why_book.html" media-type="application/xhtml+xml"/>
+<opf:item href="exam.html" id="exam.html" media-type="application/xhtml+xml"/>
+<opf:item href="mindset.html" id="mindset.html" media-type="application/xhtml+xml"/>
+<opf:item href="ata.html" id="ata.html" media-type="application/xhtml+xml"/>
+<opf:item href="revision.html" id="revision.html" media-type="application/xhtml+xml"/>
+<opf:item href="tech.html" id="tech.html" media-type="application/xhtml+xml"/>
+<opf:item href="note_book.html" id="note_book.html" media-type="application/xhtml+xml"/>
+<opf:item href="intro.html" id="intro.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap01.html" id="chap01.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap02.html" id="chap02.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap03.html" id="chap03.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap03b.html" id="chap03b.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap04.html" id="chap04.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap05.html" id="chap05.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap06.html" id="chap06.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap07.html" id="chap07.html" media-type="application/xhtml+xml"/>
+<opf:item href="chap08.html" id="chap08.html" media-type="application/xhtml+xml"/>
+<opf:item href="ref.html" id="ref.html" media-type="application/xhtml+xml"/>
+<opf:item href="acro.html" id="acro.html" media-type="application/xhtml+xml"/>
+<opf:item href="index.html" id="index.html" media-type="application/xhtml+xml"/>
+<opf:item href="proven.html" id="proven.html" media-type="application/xhtml+xml"/>
+<opf:item href="desti.html" id="desti.html" media-type="application/xhtml+xml"/>
+<opf:item href="last.html" id="last.html" media-type="application/xhtml+xml"/>
+<opf:item href="back.html" id="back.html" media-type="application/xhtml+xml"/>
+<opf:item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<opf:item href="stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+<opf:item href="fonts/calibrib.ttf" id="calibrib.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-Black.ttf" id="Montserrat-Black.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-Bold.ttf" id="Montserrat-Bold.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-BoldItalic.ttf" id="Montserrat-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-ExtraBold.ttf" id="Montserrat-ExtraBold.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-Italic.ttf" id="Montserrat-Italic.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-Medium.ttf" id="Montserrat-Medium.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-Regular.ttf" id="Montserrat-Regular.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="fonts/Montserrat-SemiBold.ttf" id="Montserrat-SemiBold.ttf" media-type="application/x-font-ttf"/>
+<opf:item href="images/104.jpg" id="a104.jpg" media-type="image/jpeg"/>
+<opf:item href="images/105.jpg" id="a105.jpg" media-type="image/jpeg"/>
+<opf:item href="images/106.jpg" id="a106.jpg" media-type="image/jpeg"/>
+<opf:item href="images/107.jpg" id="a107.jpg" media-type="image/jpeg"/>
+<opf:item href="images/109.jpg" id="a109.jpg" media-type="image/jpeg"/>
+<opf:item href="images/11.jpg" id="a11.jpg" media-type="image/jpeg"/>
+<opf:item href="images/110.jpg" id="a110.jpg" media-type="image/jpeg"/>
+<opf:item href="images/111a.jpg" id="a111a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/111b.jpg" id="a111b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/114a.jpg" id="a114a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/114b.jpg" id="a114b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/116.jpg" id="a116.jpg" media-type="image/jpeg"/>
+<opf:item href="images/119.jpg" id="a119.jpg" media-type="image/jpeg"/>
+<opf:item href="images/121.jpg" id="a121.jpg" media-type="image/jpeg"/>
+<opf:item href="images/123a.jpg" id="a123a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/123b.jpg" id="a123b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/124.jpg" id="a124.jpg" media-type="image/jpeg"/>
+<opf:item href="images/126.jpg" id="a126.jpg" media-type="image/jpeg"/>
+<opf:item href="images/128.jpg" id="a128.jpg" media-type="image/jpeg"/>
+<opf:item href="images/129a.jpg" id="a129a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/129b.jpg" id="a129b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/130a.jpg" id="a130a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/130b.jpg" id="a130b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/131.jpg" id="a131.jpg" media-type="image/jpeg"/>
+<opf:item href="images/132.jpg" id="a132.jpg" media-type="image/jpeg"/>
+<opf:item href="images/133.jpg" id="a133.jpg" media-type="image/jpeg"/>
+<opf:item href="images/134.jpg" id="a134.jpg" media-type="image/jpeg"/>
+<opf:item href="images/135.jpg" id="a135.jpg" media-type="image/jpeg"/>
+<opf:item href="images/136.jpg" id="a136.jpg" media-type="image/jpeg"/>
+<opf:item href="images/138.jpg" id="a138.jpg" media-type="image/jpeg"/>
+<opf:item href="images/139.jpg" id="a139.jpg" media-type="image/jpeg"/>
+<opf:item href="images/14.jpg" id="a14.jpg" media-type="image/jpeg"/>
+<opf:item href="images/142.jpg" id="a142.jpg" media-type="image/jpeg"/>
+<opf:item href="images/143.jpg" id="a143.jpg" media-type="image/jpeg"/>
+<opf:item href="images/144.jpg" id="a144.jpg" media-type="image/jpeg"/>
+<opf:item href="images/145.jpg" id="a145.jpg" media-type="image/jpeg"/>
+<opf:item href="images/148.jpg" id="a148.jpg" media-type="image/jpeg"/>
+<opf:item href="images/15.jpg" id="a15.jpg" media-type="image/jpeg"/>
+<opf:item href="images/150.jpg" id="a150.jpg" media-type="image/jpeg"/>
+<opf:item href="images/151.jpg" id="a151.jpg" media-type="image/jpeg"/>
+<opf:item href="images/152.jpg" id="a152.jpg" media-type="image/jpeg"/>
+<opf:item href="images/154.jpg" id="a154.jpg" media-type="image/jpeg"/>
+<opf:item href="images/155.jpg" id="a155.jpg" media-type="image/jpeg"/>
+<opf:item href="images/156.jpg" id="a156.jpg" media-type="image/jpeg"/>
+<opf:item href="images/157.jpg" id="a157.jpg" media-type="image/jpeg"/>
+<opf:item href="images/159.jpg" id="a159.jpg" media-type="image/jpeg"/>
+<opf:item href="images/165.jpg" id="a165.jpg" media-type="image/jpeg"/>
+<opf:item href="images/166.jpg" id="a166.jpg" media-type="image/jpeg"/>
+<opf:item href="images/168.jpg" id="a168.jpg" media-type="image/jpeg"/>
+<opf:item href="images/170.jpg" id="a170.jpg" media-type="image/jpeg"/>
+<opf:item href="images/173.jpg" id="a173.jpg" media-type="image/jpeg"/>
+<opf:item href="images/175a.jpg" id="a175a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/175b.jpg" id="a175b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/177a.jpg" id="a177a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/177b.jpg" id="a177b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/177c.jpg" id="a177c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/178.jpg" id="a178.jpg" media-type="image/jpeg"/>
+<opf:item href="images/179a.jpg" id="a179a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/179b.jpg" id="a179b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/180.jpg" id="a180.jpg" media-type="image/jpeg"/>
+<opf:item href="images/181.jpg" id="a181.jpg" media-type="image/jpeg"/>
+<opf:item href="images/182.jpg" id="a182.jpg" media-type="image/jpeg"/>
+<opf:item href="images/183.jpg" id="a183.jpg" media-type="image/jpeg"/>
+<opf:item href="images/184.jpg" id="a184.jpg" media-type="image/jpeg"/>
+<opf:item href="images/185.jpg" id="a185.jpg" media-type="image/jpeg"/>
+<opf:item href="images/186a.jpg" id="a186a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/186b.jpg" id="a186b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/186c.jpg" id="a186c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/186d.jpg" id="a186d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/186e.jpg" id="a186e.jpg" media-type="image/jpeg"/>
+<opf:item href="images/187.jpg" id="a187.jpg" media-type="image/jpeg"/>
+<opf:item href="images/189a.jpg" id="a189a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/189b.jpg" id="a189b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/189c.jpg" id="a189c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/189d.jpg" id="a189d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/19.jpg" id="a19.jpg" media-type="image/jpeg"/>
+<opf:item href="images/191.jpg" id="a191.jpg" media-type="image/jpeg"/>
+<opf:item href="images/193.jpg" id="a193.jpg" media-type="image/jpeg"/>
+<opf:item href="images/194.jpg" id="a194.jpg" media-type="image/jpeg"/>
+<opf:item href="images/196.jpg" id="a196.jpg" media-type="image/jpeg"/>
+<opf:item href="images/197.jpg" id="a197.jpg" media-type="image/jpeg"/>
+<opf:item href="images/199.jpg" id="a199.jpg" media-type="image/jpeg"/>
+<opf:item href="images/200.jpg" id="a200.jpg" media-type="image/jpeg"/>
+<opf:item href="images/202.jpg" id="a202.jpg" media-type="image/jpeg"/>
+<opf:item href="images/203.jpg" id="a203.jpg" media-type="image/jpeg"/>
+<opf:item href="images/205a.jpg" id="a205a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/205b.jpg" id="a205b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/206.jpg" id="a206.jpg" media-type="image/jpeg"/>
+<opf:item href="images/207.jpg" id="a207.jpg" media-type="image/jpeg"/>
+<opf:item href="images/210.jpg" id="a210.jpg" media-type="image/jpeg"/>
+<opf:item href="images/213a.jpg" id="a213a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/213b.jpg" id="a213b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/215.jpg" id="a215.jpg" media-type="image/jpeg"/>
+<opf:item href="images/216a.jpg" id="a216a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/216b.jpg" id="a216b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/216c.jpg" id="a216c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/217a.jpg" id="a217a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/217b.jpg" id="a217b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/219.jpg" id="a219.jpg" media-type="image/jpeg"/>
+<opf:item href="images/221a.jpg" id="a221a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/221b.jpg" id="a221b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/223.jpg" id="a223.jpg" media-type="image/jpeg"/>
+<opf:item href="images/224.jpg" id="a224.jpg" media-type="image/jpeg"/>
+<opf:item href="images/225.jpg" id="a225.jpg" media-type="image/jpeg"/>
+<opf:item href="images/227.jpg" id="a227.jpg" media-type="image/jpeg"/>
+<opf:item href="images/232.jpg" id="a232.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233a.jpg" id="a233a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233b.jpg" id="a233b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233c.jpg" id="a233c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233d.jpg" id="a233d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233e.jpg" id="a233e.jpg" media-type="image/jpeg"/>
+<opf:item href="images/233f.jpg" id="a233f.jpg" media-type="image/jpeg"/>
+<opf:item href="images/238.jpg" id="a238.jpg" media-type="image/jpeg"/>
+<opf:item href="images/239a.jpg" id="a239a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/239b.jpg" id="a239b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/239c.jpg" id="a239c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243a.jpg" id="a243a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243b.jpg" id="a243b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243c.jpg" id="a243c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243d.jpg" id="a243d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243e.jpg" id="a243e.jpg" media-type="image/jpeg"/>
+<opf:item href="images/243f.jpg" id="a243f.jpg" media-type="image/jpeg"/>
+<opf:item href="images/244a.jpg" id="a244a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/244b.jpg" id="a244b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/244c.jpg" id="a244c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/245.jpg" id="a245.jpg" media-type="image/jpeg"/>
+<opf:item href="images/247.jpg" id="a247.jpg" media-type="image/jpeg"/>
+<opf:item href="images/249.jpg" id="a249.jpg" media-type="image/jpeg"/>
+<opf:item href="images/252.jpg" id="a252.jpg" media-type="image/jpeg"/>
+<opf:item href="images/256.jpg" id="a256.jpg" media-type="image/jpeg"/>
+<opf:item href="images/259.jpg" id="a259.jpg" media-type="image/jpeg"/>
+<opf:item href="images/26.jpg" id="a26.jpg" media-type="image/jpeg"/>
+<opf:item href="images/260.jpg" id="a260.jpg" media-type="image/jpeg"/>
+<opf:item href="images/261a.jpg" id="a261a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/261b.jpg" id="a261b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/263.jpg" id="a263.jpg" media-type="image/jpeg"/>
+<opf:item href="images/264.jpg" id="a264.jpg" media-type="image/jpeg"/>
+<opf:item href="images/268a.jpg" id="a268a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/268b.jpg" id="a268b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/270.jpg" id="a270.jpg" media-type="image/jpeg"/>
+<opf:item href="images/271a.jpg" id="a271a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/271b.jpg" id="a271b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/273.jpg" id="a273.jpg" media-type="image/jpeg"/>
+<opf:item href="images/279.jpg" id="a279.jpg" media-type="image/jpeg"/>
+<opf:item href="images/281.jpg" id="a281.jpg" media-type="image/jpeg"/>
+<opf:item href="images/282a.jpg" id="a282a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/282b.jpg" id="a282b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/283.jpg" id="a283.jpg" media-type="image/jpeg"/>
+<opf:item href="images/285a.jpg" id="a285a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/285b.jpg" id="a285b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/287.jpg" id="a287.jpg" media-type="image/jpeg"/>
+<opf:item href="images/288a.jpg" id="a288a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/288b.jpg" id="a288b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/289.jpg" id="a289.jpg" media-type="image/jpeg"/>
+<opf:item href="images/289a.jpg" id="a289a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/289b.jpg" id="a289b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/289c.jpg" id="a289c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/289d.jpg" id="a289d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/292.jpg" id="a292.jpg" media-type="image/jpeg"/>
+<opf:item href="images/293.jpg" id="a293.jpg" media-type="image/jpeg"/>
+<opf:item href="images/294.jpg" id="a294.jpg" media-type="image/jpeg"/>
+<opf:item href="images/297.jpg" id="a297.jpg" media-type="image/jpeg"/>
+<opf:item href="images/298a.jpg" id="a298a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/298b.jpg" id="a298b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/299.jpg" id="a299.jpg" media-type="image/jpeg"/>
+<opf:item href="images/300.jpg" id="a300.jpg" media-type="image/jpeg"/>
+<opf:item href="images/301.jpg" id="a301.jpg" media-type="image/jpeg"/>
+<opf:item href="images/303a.jpg" id="a303a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/303b.jpg" id="a303b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/304a.jpg" id="a304a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/304b.jpg" id="a304b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/304c.jpg" id="a304c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/306.jpg" id="a306.jpg" media-type="image/jpeg"/>
+<opf:item href="images/307.jpg" id="a307.jpg" media-type="image/jpeg"/>
+<opf:item href="images/308.jpg" id="a308.jpg" media-type="image/jpeg"/>
+<opf:item href="images/311.jpg" id="a311.jpg" media-type="image/jpeg"/>
+<opf:item href="images/313.jpg" id="a313.jpg" media-type="image/jpeg"/>
+<opf:item href="images/314.jpg" id="a314.jpg" media-type="image/jpeg"/>
+<opf:item href="images/315.jpg" id="a315.jpg" media-type="image/jpeg"/>
+<opf:item href="images/317.jpg" id="a317.jpg" media-type="image/jpeg"/>
+<opf:item href="images/319.jpg" id="a319.jpg" media-type="image/jpeg"/>
+<opf:item href="images/322a.jpg" id="a322a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/322b.jpg" id="a322b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/322c.jpg" id="a322c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/322d.jpg" id="a322d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/323.jpg" id="a323.jpg" media-type="image/jpeg"/>
+<opf:item href="images/325.jpg" id="a325.jpg" media-type="image/jpeg"/>
+<opf:item href="images/327.jpg" id="a327.jpg" media-type="image/jpeg"/>
+<opf:item href="images/33.jpg" id="a33.jpg" media-type="image/jpeg"/>
+<opf:item href="images/331.jpg" id="a331.jpg" media-type="image/jpeg"/>
+<opf:item href="images/332.jpg" id="a332.jpg" media-type="image/jpeg"/>
+<opf:item href="images/334.jpg" id="a334.jpg" media-type="image/jpeg"/>
+<opf:item href="images/337.jpg" id="a337.jpg" media-type="image/jpeg"/>
+<opf:item href="images/341.jpg" id="a341.jpg" media-type="image/jpeg"/>
+<opf:item href="images/343.jpg" id="a343.jpg" media-type="image/jpeg"/>
+<opf:item href="images/345a.jpg" id="a345a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/345b.jpg" id="a345b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/345c.jpg" id="a345c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/348.jpg" id="a348.jpg" media-type="image/jpeg"/>
+<opf:item href="images/349a.jpg" id="a349a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/349b.jpg" id="a349b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/351.jpg" id="a351.jpg" media-type="image/jpeg"/>
+<opf:item href="images/354.jpg" id="a354.jpg" media-type="image/jpeg"/>
+<opf:item href="images/355.jpg" id="a355.jpg" media-type="image/jpeg"/>
+<opf:item href="images/357a.jpg" id="a357a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/357b.jpg" id="a357b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/358.jpg" id="a358.jpg" media-type="image/jpeg"/>
+<opf:item href="images/359.jpg" id="a359.jpg" media-type="image/jpeg"/>
+<opf:item href="images/36.jpg" id="a36.jpg" media-type="image/jpeg"/>
+<opf:item href="images/360.jpg" id="a360.jpg" media-type="image/jpeg"/>
+<opf:item href="images/361.jpg" id="a361.jpg" media-type="image/jpeg"/>
+<opf:item href="images/365a.jpg" id="a365a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/365b.jpg" id="a365b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/366.jpg" id="a366.jpg" media-type="image/jpeg"/>
+<opf:item href="images/367.jpg" id="a367.jpg" media-type="image/jpeg"/>
+<opf:item href="images/371.jpg" id="a371.jpg" media-type="image/jpeg"/>
+<opf:item href="images/372.jpg" id="a372.jpg" media-type="image/jpeg"/>
+<opf:item href="images/373.jpg" id="a373.jpg" media-type="image/jpeg"/>
+<opf:item href="images/373a.jpg" id="a373a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/373b.jpg" id="a373b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/373c.jpg" id="a373c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/373d.jpg" id="a373d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/376a.jpg" id="a376a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/376b.jpg" id="a376b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/376c.jpg" id="a376c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/377.jpg" id="a377.jpg" media-type="image/jpeg"/>
+<opf:item href="images/378.jpg" id="a378.jpg" media-type="image/jpeg"/>
+<opf:item href="images/379.jpg" id="a379.jpg" media-type="image/jpeg"/>
+<opf:item href="images/380.jpg" id="a380.jpg" media-type="image/jpeg"/>
+<opf:item href="images/386a.jpg" id="a386a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/386b.jpg" id="a386b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/387a.jpg" id="a387a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/387b.jpg" id="a387b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/387c.jpg" id="a387c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/387d.jpg" id="a387d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/387e.jpg" id="a387e.jpg" media-type="image/jpeg"/>
+<opf:item href="images/388.jpg" id="a388.jpg" media-type="image/jpeg"/>
+<opf:item href="images/394.jpg" id="a394.jpg" media-type="image/jpeg"/>
+<opf:item href="images/397.jpg" id="a397.jpg" media-type="image/jpeg"/>
+<opf:item href="images/399a.jpg" id="a399a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/399b.jpg" id="a399b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/399c.jpg" id="a399c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/400.jpg" id="a400.jpg" media-type="image/jpeg"/>
+<opf:item href="images/401.jpg" id="a401.jpg" media-type="image/jpeg"/>
+<opf:item href="images/406a.jpg" id="a406a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/406b.jpg" id="a406b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/408a.jpg" id="a408a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/408b.jpg" id="a408b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/410.jpg" id="a410.jpg" media-type="image/jpeg"/>
+<opf:item href="images/411.jpg" id="a411.jpg" media-type="image/jpeg"/>
+<opf:item href="images/412a.jpg" id="a412a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/412b.jpg" id="a412b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/413.jpg" id="a413.jpg" media-type="image/jpeg"/>
+<opf:item href="images/415.jpg" id="a415.jpg" media-type="image/jpeg"/>
+<opf:item href="images/416.jpg" id="a416.jpg" media-type="image/jpeg"/>
+<opf:item href="images/42.jpg" id="a42.jpg" media-type="image/jpeg"/>
+<opf:item href="images/420.jpg" id="a420.jpg" media-type="image/jpeg"/>
+<opf:item href="images/421.jpg" id="a421.jpg" media-type="image/jpeg"/>
+<opf:item href="images/422.jpg" id="a422.jpg" media-type="image/jpeg"/>
+<opf:item href="images/424.jpg" id="a424.jpg" media-type="image/jpeg"/>
+<opf:item href="images/429.jpg" id="a429.jpg" media-type="image/jpeg"/>
+<opf:item href="images/432.jpg" id="a432.jpg" media-type="image/jpeg"/>
+<opf:item href="images/433.jpg" id="a433.jpg" media-type="image/jpeg"/>
+<opf:item href="images/434.jpg" id="a434.jpg" media-type="image/jpeg"/>
+<opf:item href="images/435.jpg" id="a435.jpg" media-type="image/jpeg"/>
+<opf:item href="images/438.jpg" id="a438.jpg" media-type="image/jpeg"/>
+<opf:item href="images/439a.jpg" id="a439a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/439b.jpg" id="a439b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/439c.jpg" id="a439c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/44.jpg" id="a44.jpg" media-type="image/jpeg"/>
+<opf:item href="images/441.jpg" id="a441.jpg" media-type="image/jpeg"/>
+<opf:item href="images/443.jpg" id="a443.jpg" media-type="image/jpeg"/>
+<opf:item href="images/444.jpg" id="a444.jpg" media-type="image/jpeg"/>
+<opf:item href="images/448.jpg" id="a448.jpg" media-type="image/jpeg"/>
+<opf:item href="images/452.jpg" id="a452.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456a.jpg" id="a456a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456b.jpg" id="a456b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456c.jpg" id="a456c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456d.jpg" id="a456d.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456e.jpg" id="a456e.jpg" media-type="image/jpeg"/>
+<opf:item href="images/456f.jpg" id="a456f.jpg" media-type="image/jpeg"/>
+<opf:item href="images/457.jpg" id="a457.jpg" media-type="image/jpeg"/>
+<opf:item href="images/459.jpg" id="a459.jpg" media-type="image/jpeg"/>
+<opf:item href="images/461.jpg" id="a461.jpg" media-type="image/jpeg"/>
+<opf:item href="images/463.jpg" id="a463.jpg" media-type="image/jpeg"/>
+<opf:item href="images/464.jpg" id="a464.jpg" media-type="image/jpeg"/>
+<opf:item href="images/466.jpg" id="a466.jpg" media-type="image/jpeg"/>
+<opf:item href="images/468.jpg" id="a468.jpg" media-type="image/jpeg"/>
+<opf:item href="images/469.jpg" id="a469.jpg" media-type="image/jpeg"/>
+<opf:item href="images/46a.jpg" id="a46a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/46b.jpg" id="a46b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/47.jpg" id="a47.jpg" media-type="image/jpeg"/>
+<opf:item href="images/470.jpg" id="a470.jpg" media-type="image/jpeg"/>
+<opf:item href="images/473.jpg" id="a473.jpg" media-type="image/jpeg"/>
+<opf:item href="images/476.jpg" id="a476.jpg" media-type="image/jpeg"/>
+<opf:item href="images/477.jpg" id="a477.jpg" media-type="image/jpeg"/>
+<opf:item href="images/478a.jpg" id="a478a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/478b.jpg" id="a478b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/479.jpg" id="a479.jpg" media-type="image/jpeg"/>
+<opf:item href="images/481.jpg" id="a481.jpg" media-type="image/jpeg"/>
+<opf:item href="images/485.jpg" id="a485.jpg" media-type="image/jpeg"/>
+<opf:item href="images/492a.jpg" id="a492a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/492b.jpg" id="a492b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/493.jpg" id="a493.jpg" media-type="image/jpeg"/>
+<opf:item href="images/49a.jpg" id="a49a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/49b.jpg" id="a49b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/53.jpg" id="a53.jpg" media-type="image/jpeg"/>
+<opf:item href="images/54.jpg" id="a54.jpg" media-type="image/jpeg"/>
+<opf:item href="images/55.jpg" id="a55.jpg" media-type="image/jpeg"/>
+<opf:item href="images/56.jpg" id="a56.jpg" media-type="image/jpeg"/>
+<opf:item href="images/59.jpg" id="a59.jpg" media-type="image/jpeg"/>
+<opf:item href="images/70a.jpg" id="a70a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/70b.jpg" id="a70b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/70c.jpg" id="a70c.jpg" media-type="image/jpeg"/>
+<opf:item href="images/71.jpg" id="a71.jpg" media-type="image/jpeg"/>
+<opf:item href="images/73.jpg" id="a73.jpg" media-type="image/jpeg"/>
+<opf:item href="images/76.jpg" id="a76.jpg" media-type="image/jpeg"/>
+<opf:item href="images/77.jpg" id="a77.jpg" media-type="image/jpeg"/>
+<opf:item href="images/82.jpg" id="a82.jpg" media-type="image/jpeg"/>
+<opf:item href="images/84a.jpg" id="a84a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/84b.jpg" id="a84b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/85.jpg" id="a85.jpg" media-type="image/jpeg"/>
+<opf:item href="images/87.jpg" id="a87.jpg" media-type="image/jpeg"/>
+<opf:item href="images/88.jpg" id="a88.jpg" media-type="image/jpeg"/>
+<opf:item href="images/90.jpg" id="a90.jpg" media-type="image/jpeg"/>
+<opf:item href="images/91.jpg" id="a91.jpg" media-type="image/jpeg"/>
+<opf:item href="images/92a.jpg" id="a92a.jpg" media-type="image/jpeg"/>
+<opf:item href="images/92b.jpg" id="a92b.jpg" media-type="image/jpeg"/>
+<opf:item href="images/93.jpg" id="a93.jpg" media-type="image/jpeg"/>
+<opf:item href="images/97.jpg" id="a97.jpg" media-type="image/jpeg"/>
+<opf:item href="images/98.jpg" id="a98.jpg" media-type="image/jpeg"/>
+<opf:item href="images/99.jpg" id="a99.jpg" media-type="image/jpeg"/>
+<opf:item href="images/arr_0.jpg" id="aarr_0.jpg" media-type="image/jpeg"/>
+<opf:item href="images/back.jpg" id="aback.jpg" media-type="image/jpeg"/>
+<opf:item href="images/cissp.jpg" id="acissp.jpg" media-type="image/jpeg"/>
+<opf:item href="images/comm.jpg" id="acomm.jpg" media-type="image/jpeg"/>
+<opf:item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
+<opf:item href="images/cross.jpg" id="across.jpg" media-type="image/jpeg"/>
+<opf:item href="images/img_last.jpg" id="aimg_last.jpg" media-type="image/jpeg"/>
+<opf:item href="images/p3.jpg" id="ap3.jpg" media-type="image/jpeg"/>
+<opf:item href="images/qu_app.jpg" id="aqu_app.jpg" media-type="image/jpeg"/>
+<opf:item href="images/sq01.jpg" id="asq01.jpg" media-type="image/jpeg"/>
+<opf:item href="images/sq02.jpg" id="asq02.jpg" media-type="image/jpeg"/>
+<opf:item href="images/tick.jpg" id="atick.jpg" media-type="image/jpeg"/>
+<opf:item href="images/tick1.jpg" id="atick1.jpg" media-type="image/jpeg"/>
+<opf:item href="images/tit.jpg" id="atit.jpg" media-type="image/jpeg"/>
+<opf:item href="images/video.jpg" id="avideo.jpg" media-type="image/jpeg"/>
+<opf:item href="../css/kobo.css" id="css-kobo.css" media-type="text/css"/></opf:manifest>
+<opf:spine toc="ncx">
+<opf:itemref idref="cover1"/>
+<opf:itemref idref="title.html"/>
+<opf:itemref idref="copy.html"/>
+<opf:itemref idref="ack.html"/>
+<opf:itemref idref="over_toc.html"/>
+<opf:itemref idref="toc.html"/>
+<opf:itemref idref="why_book.html"/>
+<opf:itemref idref="exam.html"/>
+<opf:itemref idref="mindset.html"/>
+<opf:itemref idref="ata.html"/>
+<opf:itemref idref="revision.html"/>
+<opf:itemref idref="tech.html"/>
+<opf:itemref idref="note_book.html"/>
+<opf:itemref idref="intro.html"/>
+<opf:itemref idref="chap01.html"/>
+<opf:itemref idref="chap02.html"/>
+<opf:itemref idref="chap03.html"/>
+<opf:itemref idref="chap03b.html"/>
+<opf:itemref idref="chap04.html"/>
+<opf:itemref idref="chap05.html"/>
+<opf:itemref idref="chap06.html"/>
+<opf:itemref idref="chap07.html"/>
+<opf:itemref idref="chap08.html"/>
+<opf:itemref idref="ref.html"/>
+<opf:itemref idref="acro.html"/>
+<opf:itemref idref="index.html"/>
+<opf:itemref idref="proven.html"/>
+<opf:itemref idref="desti.html"/>
+<opf:itemref idref="last.html"/>
+<opf:itemref idref="back.html"/>
+</opf:spine>
+<opf:guide>
+<opf:reference href="cover.html" title="Cover Page" type="cover"/>
+<opf:reference href="title.html" title="Title Page" type="title-page"/>
+<opf:reference href="toc.html" title="Table of Contents" type="toc"/>
+<opf:reference href="copy.html" title="Copyright Page" type="copyright-page"/>
+</opf:guide>
+</opf:package>
