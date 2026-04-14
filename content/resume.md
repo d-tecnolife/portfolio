@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2026-02-25
+date: 2026-04-14
 layout: "single"
 ---
 
@@ -8,7 +8,7 @@ layout: "single"
 
 [Email](mailto:russellgallinera@gmail.com) · [GitHub](https://github.com/d-tecnolife)· [LinkedIn](https://www.linkedin.com/in/russell-gallinera-09a550291/)
 
-Systems Administrator with a background in computer science and a focus on automation and cybersecurity.
+Systems infrastructure professional with hands-on experience in Active Directory, Microsoft Entra ID, Intune, and PowerShell automation, including building internal tooling to simplify user provisioning for non-technical staff. Brings practical experience supporting hybrid environments, endpoint and identity administration, and day-to-day technical operations across a 1,100+ user environment. Known for improving workflows through scripting, standardization, and troubleshooting, with a strong interest in cloud automation, Linux server environments, and reliable infrastructure support.
 
 ---
 
@@ -36,13 +36,13 @@ _IT Support Technician_ <span style="float:right; font-family:monospace;">Mar 20
 
 ### Skills
 
-**Cloud & Identity:** Microsoft Entra, Active Directory, Office 365, Intune
-**Automation & Development:** Ansible, Microsoft Graph API, Docker
-**Networking & Security:** Fortinet (FortiGate, FortiClient), DarkTrace, BitDefender
-**Languages:** Powershell, Python, Go, Bash
-**Virtualization & Monitoring:** Proxmox, Hyper-V, vCenter, Auvik
-**Operating Systems:** Windows, Windows Server, Linux, macOS, iOS
-**Tools:** MiCollab, Hudu, PaperCut, SnipeIT, Splashtop, Zoom, Adobe
+- **Cloud & Identity:** Microsoft Entra, Active Directory, Office 365, Intune
+- **Automation & Development:** Ansible, Microsoft Graph API, Docker
+- **Networking & Security:** Fortinet (FortiGate, FortiClient), DarkTrace, BitDefender
+- **Languages:** Powershell, Python, Go, Bash
+- **Virtualization & Monitoring:** Proxmox, Hyper-V, vCenter, Auvik
+- **Operating Systems:** Windows, Windows Server, Linux, macOS, iOS
+- **Tools:** MiCollab, Hudu, PaperCut, SnipeIT, Splashtop, Zoom, Adobe
 
 ---
 
