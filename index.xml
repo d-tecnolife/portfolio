@@ -10,17 +10,13 @@
 &lt;hr&gt;
 &lt;h3 id="experience"&gt;Experience&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Manitoba Metis Federation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Systems Administrator&lt;/em&gt; &lt;span style="float:right; font-family:monospace;"&gt;Feb 2023 – Current&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Systems Administrator&lt;/em&gt; &lt;span style="float:right; font-family:monospace;"&gt;Feb 2024 – Current&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Built and maintained backup infrastructure, virtual machines, and containerized services&lt;/li&gt;
-&lt;li&gt;Managed server patching, firewall policies, and access point deployments&lt;/li&gt;
-&lt;li&gt;Automated provisioning and routine tasks using Ansible and PowerShell&lt;/li&gt;
-&lt;li&gt;Developed integrations using Microsoft Graph API, including automated license syncing from Entra to SnipeIT&lt;/li&gt;
-&lt;li&gt;Managed endpoint deployment and enforced device baselines across AD, Entra, and Intune&lt;/li&gt;
-&lt;li&gt;Implemented Zero Trust policies using Entra PIM, Conditional Access, and least privilege principles across AD and Entra&lt;/li&gt;
-&lt;li&gt;Supported Active Directory migration, Entra Hybrid Join, and multi-tenant configuration&lt;/li&gt;
-&lt;li&gt;Administered Microsoft 365 services including SharePoint, Exchange, and Teams&lt;/li&gt;
-&lt;li&gt;Monitored and investigated security alerts from DarkTrace&lt;/li&gt;
-&lt;li&gt;Created and maintained documentation covering infrastructure, processes, and operational guidelines&lt;/li&gt;
+&lt;li&gt;Administer hybrid infrastructure supporting 1,100+ users and devices across 30+ servers, 100+ virtual machines, backup platforms, and containerized services to maintain reliable day-to-day operations.&lt;/li&gt;
+&lt;li&gt;Automate provisioning, patching, and recurring administrative workflows with PowerShell and Ansible, reducing manual effort by an estimated 30% and improving consistency across server and endpoint management.&lt;/li&gt;
+&lt;li&gt;Manage identity and endpoint administration for approximately 1,100 users and devices across Active Directory, Entra ID, and Intune, enforcing device baselines and supporting Hybrid Join and multi-tenant administration.&lt;/li&gt;
+&lt;li&gt;Implement Zero Trust controls with Entra PIM, Conditional Access, and least-privilege principles, strengthening privileged access governance and reducing standing administrative access across AD and Entra environments.&lt;/li&gt;
+&lt;li&gt;Build Microsoft Graph API integrations to automate license synchronization between Entra ID and Snipe-IT, while administering Microsoft 365 services and investigating Darktrace alerts to support secure, stable operations.&lt;/li&gt;
+&lt;li&gt;Maintain Veeam backup infrastructure for 30+ servers, 100+ virtual machines, and Microsoft 365 workloads, supporting system recoverability and the reliable protection of business-critical data.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;IT Support Technician&lt;/em&gt; &lt;span style="float:right; font-family:monospace;"&gt;Mar 2022 – Feb 2023&lt;/span&gt;&lt;/p&gt;</description></item><item><title>About</title><link>https://russellgallinera.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>russellgallinera@gmail.com (RUSSELL GALLINERA)</author><guid>https://russellgallinera.com/about/</guid><description>&lt;p&gt;WIP&lt;/p&gt;</description></item></channel></rss>
